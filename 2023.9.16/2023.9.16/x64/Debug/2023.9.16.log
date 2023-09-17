@@ -1,0 +1,5 @@
+﻿  test.cpp
+C:\Users\朱艳\Desktop\C\2023.9.16\2023.9.16\test.cpp(99,21): error C3688: 文本后缀“，55”无效；未找到文文本运算符或文本运算符模板“operator """"，55”
+C:\Users\朱艳\Desktop\C\2023.9.16\2023.9.16\test.cpp(99,49): error C2146: 语法错误: 缺少“;”(在标识符“；”的前面)
+C:\Users\朱艳\Desktop\C\2023.9.16\2023.9.16\test.cpp(99,49): error C2065: “；”: 未声明的标识符
+C:\Users\朱艳\Desktop\C\2023.9.16\2023.9.16\test.cpp(100,3): error C2146: 语法错误: 缺少“;”(在标识符“printf”的前面)
