@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\朱艳\source\repos\2023.12.20\2023.12.20\FileName.cpp(10,11): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+C:\Users\朱艳\source\repos\2023.12.20\2023.12.20\FileName.cpp(11,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  2023.12.20.vcxproj -> C:\Users\朱艳\source\repos\2023.12.20\x64\Debug\2023.12.20.exe
