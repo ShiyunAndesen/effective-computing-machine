@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\朱艳\source\repos\2024.1.1\2024.1.1\FileName.cpp(187,4): error C2664: “void (char *)”: 无法将参数 1 从“const char [4]”转换为“char *”
+C:\Users\朱艳\source\repos\2024.1.1\2024.1.1\FileName.cpp(187,4): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
